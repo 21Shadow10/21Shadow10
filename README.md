@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **dharmikgovani21@yahoo.com**
 
-- ⚡ Fun fact **I play cricket and go to the GYM very often.**
+- ⚡ Fun fact **I play Cricket and eat Street Food very often.**
 
 ## 🚀 Languages and Tools:
 
