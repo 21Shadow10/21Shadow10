@@ -65,7 +65,7 @@
 <a href = "https://www.instagram.com/dharmikgovani/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.codechef.com/users/shadow210"><img src="./codechef.png"/></a>
 <a href = "https://leetcode.com/dharmikgovani21/"><img src="./leetcode.png"/></a>
-<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="./geeksforgeeks.png"/></a>
+<a href = "https://auth.geeksforgeeks.org/user/dharmikgovani211/practice/"><img src="./geeksforgeeks.png"/></a>
 
 </p>
 
