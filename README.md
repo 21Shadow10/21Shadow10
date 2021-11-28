@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **dharmikgovani21@yahoo.com**
+- 📫 How to reach me **dharmikgovani21@outlook.com**
 
 - ⚡ Fun fact **I play Cricket and eat Street Food very often.**
 
