@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Data Structures and Algorithms** and **Web Development**
+- 🌱 I’m currently learning **Data Structures and Algorithms** and **MERN Stack Development**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
